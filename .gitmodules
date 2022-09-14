@@ -1,0 +1,3 @@
+[submodule "move-language-documentation_tutorial"]
+	path = move-language-documentation_tutorial
+	url = https://github.com/dwaynerichards/move-language-documentation_tutorial.git
